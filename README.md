@@ -46,6 +46,6 @@ https://github.com/yuri-panchul/basics-graphics-music/tree/main/labs/90_valid_re
 
 - Тестбенч модуля находится в папке *tb*
 
-- Скрипт для запуска симуляции проекта находится в папке *sim\modelsim\float32\make_sim.bat*
+- Скрипт для запуска симуляции проекта находится в папке *sim\modelsim\stream_upsize\make_sim.bat*
 
 - Скрипт для запуска синтеза проекта находится в папке  *syn\Vivado\make_analyz.bat*
